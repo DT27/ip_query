@@ -14,15 +14,12 @@
 
 ### 关于文件结构
 
-* 使用[Pure.css](http://purecss.io/)
-* 静态文件如`CSS`,`JS`等放入`/assets/`内。
-* 主文件`index.html`直接置于项目根目录内。
+* 使用Markdown，数据格式为`地区-公网IP有无情况`，如`浙江杭州-公网`
 
 ### 关于提交代码
 
 * `fork`本项目, 在自己的仓库下修改代码, 然后发起`pull request`。
 * 如果较早`fork`了本项目，在项目文件变动后需同步源仓库，请参考[这里](https://help.github.com/articles/syncing-a-fork/)。
-* 提交的代码无需压缩，尽量格式化。
 
 ### 关于贡献信息
 
