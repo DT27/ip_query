@@ -4,12 +4,11 @@
 > 跨越长城，走向世界。
 
 * 项目地址：https://github.com/cnsb/ip_query
-* 在线查询：http://cnsb.github.io/ip_query
+* 在线查询：https://github.com/cnsb/ip_query/blob/master/info.md
 
 
 ### 关于本项目
 
-* 已经删除 `master` 分支，默认分支是 `gh-pages`。
 * `wiki`已关闭。
 
 ### 关于文件结构
